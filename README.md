@@ -1,4 +1,4 @@
-# Aegires
+# Aegires.
 
 A lightweight, unofficial Discord client for Android, written in Java. Aegires talks directly to Discord's REST API and Gateway WebSocket, and builds its entire UI in code without XML layouts.
 
